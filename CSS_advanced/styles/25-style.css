@@ -200,6 +200,13 @@ ul.row {
     text-decoration: none;
 }
 
+[data-section-theme="dark"] {
+    --text-color: var(--color-white);
+    --section-title-color: var(--color-white);
+    background-color: var(--color-black);
+    --button-color: var(--color-white);
+}
+
 .button {
     display: var(--button-display);
     padding: var(--button-padding);
