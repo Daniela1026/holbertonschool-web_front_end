@@ -95,14 +95,14 @@ a:active {
 .navbar-menu {
     float: right;
 }
-  
+
 .nav {
     margin: 0;
     padding: 0;
     list-style: none;
     text-align: center;
 }
-  
+
 .nav .nav-item {
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
@@ -111,7 +111,7 @@ a:active {
     display: var(--nav-item-display);
     margin: var(--nav-item-margin);
 }
-  
+
 .nav .nav-link {
     display: block;
     padding: 0.5rem 1rem;
@@ -131,7 +131,7 @@ a:active {
     background-color: var(--color-primary);
     width: 100%;
 }
-  
+
 .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
 }
